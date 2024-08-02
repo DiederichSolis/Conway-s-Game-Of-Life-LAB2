@@ -1,5 +1,5 @@
 use crate::grid::Grid;
-use graphics::color::BLACK;
+use graphics::color::{BLACK, GRAY};
 use graphics::Graphics;
 use opengl_graphics::GlGraphics;
 use piston::{EventSettings, Events, RenderArgs, UpdateArgs};
@@ -27,7 +27,7 @@ impl App {
     fn render(&mut self, args: &RenderArgs) {
         self.grid.update(); // Actualiza el estado de la cuadrícula
         self.gl.draw(args.viewport(), |c, g| {
-            g.clear_color(GRAY); // Limpia el fondo con color negro
+            g.clear_color(GRAY); // Limpia el fondo con color GRIS
 
             // Dibuja cada celda en la cuadrícula
             self.grid.cells.iter().for_each(|cell| {

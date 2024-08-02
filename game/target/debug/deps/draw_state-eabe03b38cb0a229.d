@@ -1,0 +1,10 @@
+/Users/diederichsolis/Documents/SOFTWARE/Conway-s-Game-Of-Life-LAB2/game/target/debug/deps/libdraw_state-eabe03b38cb0a229.rmeta: /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/lib.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/preset.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/state.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/target.rs
+
+/Users/diederichsolis/Documents/SOFTWARE/Conway-s-Game-Of-Life-LAB2/game/target/debug/deps/libdraw_state-eabe03b38cb0a229.rlib: /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/lib.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/preset.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/state.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/target.rs
+
+/Users/diederichsolis/Documents/SOFTWARE/Conway-s-Game-Of-Life-LAB2/game/target/debug/deps/draw_state-eabe03b38cb0a229.d: /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/lib.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/preset.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/state.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/target.rs
+
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/lib.rs:
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/preset.rs:
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/state.rs:
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/draw_state-0.8.0/src/target.rs:

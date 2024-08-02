@@ -1,0 +1,10 @@
+/Users/diederichsolis/Documents/SOFTWARE/Conway-s-Game-Of-Life-LAB2/game/target/debug/deps/librusttype-4d1a51dc3c96706b.rmeta: /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/Users/diederichsolis/Documents/SOFTWARE/Conway-s-Game-Of-Life-LAB2/game/target/debug/deps/librusttype-4d1a51dc3c96706b.rlib: /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/Users/diederichsolis/Documents/SOFTWARE/Conway-s-Game-Of-Life-LAB2/game/target/debug/deps/rusttype-4d1a51dc3c96706b.d: /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs:
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs:
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs:
+/Users/diederichsolis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs:
